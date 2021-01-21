@@ -1,0 +1,1 @@
+{"Potato": "A starchy plant tuber that is one of the most important food crops, cooked and eaten as a vegetable.", "Apple": "the round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.", "Be": "To exist", "What": "Asking for information specifying something."}

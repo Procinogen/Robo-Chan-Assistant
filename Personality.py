@@ -1,0 +1,1 @@
+Personality = {'E/I': 50, 'S/N': 50, 'F/T': 50, 'J/P': 50}
